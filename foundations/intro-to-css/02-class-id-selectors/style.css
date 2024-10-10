@@ -1,0 +1,50 @@
+body{
+    font-family: "Afacad Flux", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+    background-color: #2F4F4F;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr ;
+    align-items: center;
+    justify-content: center;
+    }
+
+.small-para{
+  background-color: #2e4053;
+  color: #e5e7e9;
+  border-radius: 25px;
+  padding: 15px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+
+
+#divOne,
+#divTwo{
+  border-radius: 25px;
+  padding: 15px;
+  }
+
+
+#divOne{
+  background-color: #a93226;
+  color: #7dcea0 ;
+}
+
+#divTwo{
+  background-color: #7dcea0 ;
+  color: #a93226;
+}
+
+.small-para.cooler{
+  background-color: #af601a ;
+  color: #5499c7;
+}
+
+

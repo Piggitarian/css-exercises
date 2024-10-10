@@ -1,0 +1,19 @@
+html{
+  font-family: "Afacad Flux", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+
+    background-color: #2F4F4F;
+}
+
+div{
+  background-color: #FF9966 ;
+  color: #f6ddcc;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  font-size: 3rem;
+}

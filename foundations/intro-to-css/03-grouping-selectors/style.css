@@ -1,0 +1,41 @@
+body{
+  font-family: "Afacad Flux", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0;
+  background-color: #2F4F4F;
+  display: flex;
+  gap: 10px;
+  grid-template-columns: 1fr ;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25%;
+  }
+
+  .button{
+    font-size: 3rem;
+    border-radius: 25px;
+    padding: 10px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    
+}
+
+  #one{
+    border-color: #7b7d7d;
+    background-color: #1b2631 ;
+    color: #b3b6b7;
+    box-shadow: #1b2631;
+  }
+
+  #two{
+    background-color: #0e6655;
+    color: #e6b0aa;
+    box-shadow: #e6b0aa;
+  }
+
+
